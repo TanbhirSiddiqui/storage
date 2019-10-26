@@ -1,0 +1,77 @@
+.logo {
+    font-family: 'Lobster', cursive;
+    font-size: 40px !important;
+    color: snow;
+    padding: 11px 26%;
+    letter-spacing: 15px;
+    font-weight: 500;
+}
+
+.font {
+    font-family: 'Big Shoulders Text', cursive;
+    font-size: 25px;
+    color: white !important;
+    padding-left: 10% !important;
+}
+
+.naba {
+       font-size: 25px;
+    font-weight: 700;
+    padding: 19px 23px !important;
+    font-family: 'Big Shoulders Text', cursive;
+    letter-spacing: 4px;
+    color: gray !important;
+}
+
+.nabpadding {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+.nab_item_padding{
+    padding-left: 28%;
+}
+.owl-prev {
+    font-size: 30px !important;
+    color: 
+    #fff !important;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0;
+}
+.owl-next {
+    font-size: 30px !important;
+    color: 
+    #fff !important;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0;
+}
+.bg-dark {
+    margin-bottom: -25px;
+}
+.owl-carousel .owl-item img{
+height: 500px;
+}
+.owl-carousel .item{
+    background-size: cover !important;
+}
+.sliderheader{
+    font-family: 'Roboto', sans-serif;
+}
+.sliderpadding{
+margin: 14% 0%;
+
+background-color:
+beige;
+    }
+
+.sliderimg{
+    padding: 47px 73px;
+margin-left: 8%;
+}
+.imheight{
+   height: 665px;
+width: 100%;
+}
